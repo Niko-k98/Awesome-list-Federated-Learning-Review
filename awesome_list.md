@@ -6,7 +6,7 @@ This list includes articles, datasets, tools, and additional readings that are p
 
 ## Contents
 - [Introduction](#introduction)
-- [Foundational Papers](#foundational-papers)
+- [Federated Learning](#Federated Learning)
 - [Datasets](#datasets)
 - [Analysis Tools](#analysis-tools)
 - [Recent Studies](#recent-studies)
