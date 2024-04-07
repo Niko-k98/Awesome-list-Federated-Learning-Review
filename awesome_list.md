@@ -6,15 +6,13 @@ This list includes articles, datasets, tools, and additional readings that are p
 
 ## Contents
 - [Introduction](#introduction)
-- [Federated Learning](#Federated Learning)
-- [Datasets](#datasets)
-- [Analysis Tools](#analysis-tools)
+- [Federated Learning](#Federated-Learning)
+- [Privacy Preservation](#Privacy-Preservation)
+- [Uncertainty Estimation](#Uncertainty-Estimation)
 - [Recent Studies](#recent-studies)
-- [Books and Reviews](#books-and-reviews)
-- [Conferences and Workshops](#conferences-and-workshops)
-- [Influential Researchers](#influential-researchers)
-- [Related Topics](#related-topics)
-- [Miscellaneous Resources](#miscellaneous-resources)
+- [Real World Applications](#Real-World-Applications)
+- [Challenges and Opportunities](#Challenges-and-Opportunities)
+
 
 ## Introduction
 - Brief overview of the research topic.
