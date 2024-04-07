@@ -9,7 +9,6 @@ This list includes articles, datasets, tools, and additional readings that are p
 - [Federated Learning](#Federated-Learning)
 - [Privacy Preservation](#Privacy-Preservation)
 - [Uncertainty Estimation](#Uncertainty-Estimation)
-- [Recent Studies](#recent-studies)
 - [Real World Applications](#Real-World-Applications)
 - [Challenges and Opportunities](#Challenges-and-Opportunities)
 
