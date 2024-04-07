@@ -1,4 +1,4 @@
-# Awesome [Research Paper/Topic Name]
+# Awesome Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation
 
 A curated list of resources for [Research Paper/Topic Name], aiming to provide comprehensive insights into [brief description of the topic or the main question your research addresses].
 
@@ -21,30 +21,23 @@ This list includes articles, datasets, tools, and additional readings that are p
 - Importance of this area of research.
 - Key questions or issues that the research aims to address.
 
-## Foundational Papers
+## Federated Learning
 - [Paper Title](link) - Short description and its impact on the field.
 
-## Datasets
+## Privacy Preservation
 - [Dataset Name](link) - Description and how it can be used in research.
 
-## Analysis Tools
+## Uncertainty Estimation
 - [Tool Name](link) - Brief explanation of the tool and its relevance.
 
-## Recent Studies
+## Real World Applications
 - [Study Title](link) - Overview and key findings.
 
-## Books and Reviews
+## Challenges and Opportunities
 - [Book/Review Title](link) - Summary and how it contributes to the topic.
 
 ## Conferences and Workshops
 - [Conference/Workshop Name](link) - Significance and how it relates to the research topic.
 
-## Influential Researchers
-- Name of Researcher - Key contributions and affiliations.
 
-## Related Topics
-- Brief descriptions of and links to related areas of study or intersecting fields.
-
-## Miscellaneous Resources
-- Any other resources that don't fit into the above categories but are valuable.
 
