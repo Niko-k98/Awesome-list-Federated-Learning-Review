@@ -30,10 +30,25 @@ This awesome lis
 - [Learn from Others and Be Yourself in Heterogeneous Federated Learning](https://ieeexplore.ieee.org/document/9879190)
 - [ Personalized Federated Learning with Adaptive Batchnorm for Healthcare](https://arxiv.org/abs/2112.00734)
 ## Privacy Preservation
-- [Dataset Name](link) - Description and how it can be used in research.
+- [Privacy-preserving Federated Brain Tumour Segmentation](https://arxiv.org/abs/1910.00962)
+- [Federated Learning with Differential Privacy: Algorithms and Performance Analysis](https://ieeexplore.ieee.org/document/9069945)
+- [Federated learning and differential privacy for medical image analysis](https://www.nature.com/articles/s41598-022-05539-7)
+- [APPFL: Open-Source Software Framework for Privacy-Preserving Federated Learning](https://arxiv.org/abs/2202.03672) 
+- [ End-to-end privacy-preserving deep learning on multi-institutional medical imaging](https://www.nature.com/articles/s42256-021-00337-8)
+- [Secure, privacy-preserving and federated machine learning in medical imaging](https://www.nature.com/articles/s42256-020-0186-1)
+- [DeTrust-FL: Privacy-Preserving Federated Learning in Decentralized Trust Setting](https://arxiv.org/abs/2207.07779)
+- [Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix](https://arxiv.org/abs/2106.06089) 
+- [Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning](https://arxiv.org/abs/2106.03328)
+- [Vision Through the Veil: Differential Privacy in Federated Learning for Medical Image Classification](https://arxiv.org/abs/2306.17794)
+- [Differentially private knowledge transfer for federated learning](https://www.nature.com/articles/s41467-023-38794-x)
+- [Differential Privacy-enabled Federated Learning for Sensitive Health Data](https://arxiv.org/abs/1910.02578) 
+- [Encrypted federated learning for secure decentralized collaboration in cancer image analysis](https://www.sciencedirect.com/science/article/pii/S1361841523003195)
+- [FedOpt: Towards Communication Efficiency and Privacy Preservation in Federated Learning](https://www.mdpi.com/2076-3417/10/8/2864)
+- [LDS-FL: Loss Differential Strategy Based Federated Learning for Privacy Preserving](https://ieeexplore.ieee.org/document/10272663)
+- [A Hybrid Approach to Privacy-Preserving Federated Learning](https://arxiv.org/abs/1812.03224) 
 
 ## Uncertainty Estimation
-- [Tool Name](link) - Brief explanation of the tool and its relevance.
+- [Approaches to Uncertainty Quantification in Federated Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_12)
 
 ## Real World Applications
 - [Study Title](link) - Overview and key findings.
