@@ -1,25 +1,20 @@
 # Awesome Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation
 
-A curated list of resources for [Research Paper/Topic Name], aiming to provide comprehensive insights into [brief description of the topic or the main question your research addresses].
-
-This list includes articles, datasets, tools, and additional readings that are pivotal for understanding and conducting research on the specified topic.
+This awesome list provides links to relevant papers reviewed in privacy preserving federated learning in medical imaging with uncertainty estimation.
 
 ## Contents
-- [Introduction](#introduction)
 - [Federated Learning](#Federated-Learning)
 - [Privacy Preservation](#Privacy-Preservation)
 - [Uncertainty Estimation](#Uncertainty-Estimation)
 - [Real World Applications](#Real-World-Applications)
-- [Challenges and Opportunities](#Challenges-and-Opportunities)
+
 
 
 ## Introduction
-- Brief overview of the research topic.
-- Importance of this area of research.
-- Key questions or issues that the research aims to address.
+This awesome lis
 
 ## Federated Learning
-- [Paper Title](link) - Short description and its impact on the field.
+- [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) - Short description and its impact on the field.
 
 ## Privacy Preservation
 - [Dataset Name](link) - Description and how it can be used in research.
